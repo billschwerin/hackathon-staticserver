@@ -1,0 +1,38 @@
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+div
+{
+  float: left;
+}
+
+#urnArea 
+{
+  width: 25%;
+}
+
+#urn
+{
+  width: 65%;
+}
+
+#threads
+{
+  width: 65%;
+}
+
+#commentsArea 
+{
+  margin: 20px;
+  width: 30%;
+  float: left;
+}
+
+#webDiv 
+{
+  float: left;
+  width: 65%;
+  height: 95%;
+  border-style : solid;
+}
+
